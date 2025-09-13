@@ -1,6 +1,6 @@
 # UTN‑TUPaD Programación 1
 
-Bienvenido al repositorio de **Programación 1** de la UTN (TUPaD). Aquí encontrarás los ejercicios resueltos correspondientes a las distintas unidades de la materia. Este repositorio está organizado para servirte como repaso, práctica y base para tus proyectos personales.
+Bienvenido al repositorio de **Programación 1** de la UTN (TUPaD). Aquí encontrarás los ejercicios resueltos correspondientes a las distintas unidades de la materia.
 
 ---
 
