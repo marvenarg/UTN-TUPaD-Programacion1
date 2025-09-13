@@ -33,7 +33,7 @@ UTN-TUPaD-Programacion1/
 - Practicar los conceptos fundamentales de programación: variables, condicionales, bucles, funciones simples.  
 - Aprender a recibir datos del usuario, procesarlos, validar entradas.  
 - Entender cómo manipular strings y números.  
-- Implementar ejercicios que refuercen lógica de programación básica.
+- Implementar ejercicios que refuercen la lógica de programación.
 
 ---
 
