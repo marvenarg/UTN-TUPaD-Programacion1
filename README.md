@@ -24,7 +24,7 @@ UTN-TUPaD-Programacion1/
 
 - Lenguaje: **Python 3.x**  
 - Librerías estándar de Python (no se requiere instalación de paquetes externos para los ejercicios básicos).  
-- Uso de funciones básicas (`input()`, `print()`), estructuras de control (`if/else`, `for`, `while`), manejo de cadenas, números, generación de números aleatorios, etc.
+- Uso de funciones como (`input()`, `print()`), estructuras de control (`if/else`, `for`, `while`), manejo de cadenas, números, generación de números aleatorios, etc.
 - Editores: VSCode
 ---
 
