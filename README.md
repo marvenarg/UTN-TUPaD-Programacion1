@@ -66,7 +66,7 @@ UTN-TUPaD-Programacion1/
 - Validá siempre las entradas del usuario (que no deje vacío, que ingrese datos válidos).  
 - Comentá el código para aclarar qué hace cada parte.  
 - Evitá duplicar código: si repetís lógica similar, pensá en funciones.  
-- Probad casos especiales (números negativos, cero, valores límite).
+- Probá casos especiales (números negativos, cero, valores límite).
 
 ---
 
