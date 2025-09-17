@@ -1,3 +1,4 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/UTN_logo.jpg/270px-UTN_logo.jpg" alt="Logo UTN" width="50" style="float: left; margin-right: 10px;" />
 # UTN‑TUPaD Programación 1
 
 Bienvenido al repositorio de **Programación 1** de la UTN (TUPaD). Aquí encontrarás los ejercicios resueltos correspondientes a las distintas unidades de la materia.
