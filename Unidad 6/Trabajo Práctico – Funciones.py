@@ -1,7 +1,7 @@
 # ------------------------------------------------------------------------------------------------------------------------------------------------------------
 #  Universidad Tecnológica Nacional - Tecnicatura Universitaria en Programación a Distancia
 #  
-#                    Práctico 2: Funciones en Python
+#                    Práctico 6: Funciones en Python
 #
 # Objetivo:
 # Comprender y aplicar el uso de funciones en la programación, desarrollando algoritmos que implementen modularidad, 
